@@ -1,0 +1,13 @@
+2. Documento de requisitos recopilados: como su nombre lo dice, los requisitos del proyecto que esten realizando. 
+3. Modelo de Casos de Uso: un modelo donde se expliquen los casos y usos que se le dara. 
+4. Glosario: Palabras clave o que necesiten ser explicadas en el documento 
+5. Prototipos de Interfaces de Usuario: aqui iian sus mockups 
+6. Modelo de Análisis y Diseño: El analisis que realizaron conforme al diseño que utilizaran y escogeran (minimalista, material design, etc) 
+7. Modelo de Datos: entidad - relacion 
+8. Modelo de Implementación: Como lo implementaran en cuestion de programas (angular, node, etc) 
+9. Modelo de Despliegue: cuando este en la nube cual sera su organizacion o arquitectura utilziada 
+10. Modelo de Pruebas: como probaran el proyecto en cuestion de uso. 
+11. Plan de Actividades (Se define para cada iteración si procede): como se organizaran en cuestion de tiempos (suponiendo cuanto tardaran) 
+12. Evaluación de Actividades: como evaluara cada actividada y si se cumple. (siempre a suposicion de que asi se haga) 
+13. Manual de Instalación: como se instalara si fuera una aplicacion (simulando que ya se encontrara en play store o apple store) y la parte web como acceder. (tipo manual de usuario) 
+14. Material de Apoyo al Usuario Final: lo que le servira al usuario para comprender (alguien que desconozca de la informatica) 15. Presentación y Acceso al Producto: como lo presentara y se podra acceder al mismo
